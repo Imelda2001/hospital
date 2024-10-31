@@ -1,0 +1,4 @@
+Login Details
+Login Details for admin : admin/admin123
+Login Details for Patient: imichou@gmail.com/imi123
+Login Details for Doctor: drfokou@gmail.com/fokou123
